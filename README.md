@@ -1,0 +1,2 @@
+# Cleaning-Data-in-SQL
+Importing a large (>50,000 rows) data set into SQL and cleaning to prepare for analysis. The dataset is pertains to Nashville housing records, and includes information such as addresses, dates purchased, whether it was sold as vacant, etc. Cleaning included tasks such as reformatting the dates and splitting addresses into separate adddress, city, and state columns. There were also many duplicate rows and unusable columns that also needed to be removed.
