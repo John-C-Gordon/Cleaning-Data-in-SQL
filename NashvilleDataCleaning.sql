@@ -1,4 +1,4 @@
-SELECT TOP (1000) [UniqueID]
+SELECT TOP (1000) [UniqueID] -- This is what gets run automatically when right clicking the table in the Object Viewer, and clicking "Select Top 1000"
       ,[ParcelID]
       ,[LandUse]
       ,[PropertyAddress]
